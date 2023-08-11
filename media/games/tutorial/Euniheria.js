@@ -29,7 +29,6 @@ undum.game.slideUpSpeed = 500
 
 //imported situation
 var GameSituations = {};
-import * as GameSituations from './race_creation.js';
 console.log(GameSituations); 
 
 /*undum.game.actions = {
